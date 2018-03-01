@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>icons/application-exit.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/Cut.png</file>
+        <file>icons/new.png</file>
+        <file>icons/Open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/Save As.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/undo.png</file>
+    </qresource>
+</RCC>
