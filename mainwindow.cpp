@@ -16,6 +16,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     this->setWindowTitle("Simple Notepad");
+    this->setWindowIcon(QIcon(":/rsc/SimpleNotepad.png"));
     this->setCentralWidget(ui->textEdit);
 }
 
